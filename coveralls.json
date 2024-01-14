@@ -1,0 +1,18 @@
+{
+  "coverage_options": {
+    "treat_no_relevant_lines_as_covered": true,
+    "minimum_coverage": 90
+  },
+
+  "skip_files": [
+    "lib/pinocchio_nose_web.ex",
+    "lib/pinocchio_nose/application.ex",
+    "lib/pinocchio_nose_web/endpoint.ex",
+    "lib/pinocchio_nose_web/telemetry.ex",
+    "lib/pinocchio_nose_web/gettext.ex",
+    "lib/pinocchio_nose_web/views/error_helpers.ex",
+    "lib/pinocchio_nose_web/views/error_view.ex",
+    "lib/pinocchio_nose_web/router.ex",
+    "test/*"
+  ]
+}
