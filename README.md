@@ -1,3 +1,7 @@
+See original requirements [here](./requirements.md)
+
+------------
+
 # Design
 
 Some considerations:
